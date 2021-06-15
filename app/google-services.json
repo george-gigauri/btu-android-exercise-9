@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1038435643325",
+    "project_id": "snek-d0050",
+    "storage_bucket": "snek-d0050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038435643325:android:f3961a0291cb8b49d16cd4",
+        "android_client_info": {
+          "package_name": "ge.george.btu_android_exercise_9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038435643325-qrssqbamfec2pvpmcmtli5shbpgbr4bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJNeTnteFbaWdW2RgE0PayNbJQ3A_TVsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038435643325-qrssqbamfec2pvpmcmtli5shbpgbr4bk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038435643325:android:2ffbd6bcd09723bad16cd4",
+        "android_client_info": {
+          "package_name": "ge.george.gigauri.snek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038435643325-qrssqbamfec2pvpmcmtli5shbpgbr4bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJNeTnteFbaWdW2RgE0PayNbJQ3A_TVsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038435643325-qrssqbamfec2pvpmcmtli5shbpgbr4bk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
